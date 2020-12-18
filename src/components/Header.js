@@ -16,7 +16,7 @@ function Header() {
               <a className="nav-link" href="/">Home <span className="sr-only">(current)</span></a>
             </li>
             <li className="nav-item mr-2">
-              <a className="nav-link" href="https://github.com/GrantEadie/endymion-outfitters" rel="noreferrer" target="_blank">Git Repo</a>
+              <a className="nav-link" href="https://github.com/GrantEadie/endymion-outfitters" rel="noopener noreferrer" target="_blank">Git Repo</a>
             </li>
           </ul>
         </div>

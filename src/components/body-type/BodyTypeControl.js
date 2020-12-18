@@ -11,9 +11,6 @@ import * as a from '../../actions/index';
 
 
 class BodyTypeControl extends React.Component {
-  constructor(props) {
-    super(props);
-  }
 
   handleBodyClick = (event) => {
     const { dispatch } = this.props
