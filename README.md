@@ -1,70 +1,113 @@
-# Getting Started with Create React App
+<br>
+<p align="center">
+  <u><big>|| <b>Endymion Outfitters by Grant Eadie</b> ||</big></u>
+</p>
+<p align="center">
+    <!-- Project Avatar/Logo -->
+    <br>
+    <a>
+        <img src="/src/img/endymion.png">
+    </a>
+    <p align="center">
+      ___________________________
+    </p>
+    <!-- GitHub Link -->
+    <p align="center">
+        <a href="https://github.com/GrantEadie">
+            <strong>Grant Eadie</strong>
+        </a> 
+    </p>
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+  <small>Created on November 24th, 2020.</small>
+</p>
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+# <u>Table of Contents</u>
 
-### `npm start`
+  - <a href="#Description">Description</a>
+  - <a href="#Known-Bugs">Known Bugs</a>
+  - <a href="#Built-With">Built With</a>
+  - <a href="#getting-started">Getting Started</a>
+  - <a href="#setup-and-use">Setup and Use</a>
+  - <a href="#contact-and-support">Contact</a>
+  - <a href="#license">License</a>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+![component drawing](src/img/cyborg-armorments.png)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+---
 
-### `npm test`
+# Description
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Welcome to Endymion Outfitters, synthetic armaments and bio-modification. Our retailer provides solutions for advanced prosthetics. Click through the catagories, which are displayed on the model to the right, and choose an item to either put into the cart, or see more details. 
 
-### `npm run build`
+# Known Bugs
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Model SVG has spaces in between the muscles and can make the hover function a little annoying.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# Built With
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [React](https://reactjs.org/docs/getting-started.html)
+- [Boostrap](https://getbootstrap.com/)
 
-### `npm run eject`
+# Getting Started
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Code Editor
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+To view or edit the code, you will need an code editor or text editor. The popular open-source choices for an code editor are Atom and VisualStudio Code.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+1. Code Editor Download:
+   - Option 1: [Atom](https://nodejs.org/en/)
+   - Option 2: [VisualStudio Code](https://www.npmjs.com/)
+2. Click the download most applicable to your OS and system.
+3. Wait for download to complete, then install -- Windows will run the setup exe and macOS will drag and drop into applications.
+4. Optionally, create a [GitHub Account](https://github.com)
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+<hr>
 
-## Learn More
+# Setup and Use
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+1. Download or clone the respository to your machine.
+2. Open the main directory and write ``` npm build ``` in the terminal and hit enter
+3. Follow up with ```npm start``` and open http://localhost:3000/
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
 
-### Code Splitting
+# Contact and Support
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+If you have any feedback or concerns, please contact <grantleadie@gmail.com>.
 
-### Analyzing the Bundle Size
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+# License
 
-### Making a Progressive Web App
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Copyright (C) 2020 Grant Eadie All Rights Reserved.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+```
 
-### Advanced Configuration
+MIT License
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Copyright (c) 2020 Grant Eadie
 
-### Deployment
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-### `npm run build` fails to minify
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+```
